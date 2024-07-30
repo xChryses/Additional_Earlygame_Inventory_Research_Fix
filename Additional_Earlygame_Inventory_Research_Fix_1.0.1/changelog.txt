@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0 - First public release
+Date: 24. 1. 2021
+  Major Features:
+    - Added 3 additional tiers of inventory research in the early stages of gameplay!
